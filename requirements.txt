@@ -1,0 +1,6 @@
+# Core Python packages
+requests
+beautifulsoup4
+lxml
+termcolor
+colorama
